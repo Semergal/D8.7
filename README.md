@@ -1,4 +1,5 @@
 # D8.7
+https://github.com/Semergal/D8.7.git
 pip install -r requirements.txt
 python manage.py runserver<br>
 
